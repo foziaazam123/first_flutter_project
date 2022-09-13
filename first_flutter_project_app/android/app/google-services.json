@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976528049878",
+    "firebase_url": "https://heart-disease-a8542-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "heart-disease-a8542",
+    "storage_bucket": "heart-disease-a8542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976528049878:android:ef2529b606415d3e682b77",
+        "android_client_info": {
+          "package_name": "com.pakartechnology.arslan122.first_flutter_project_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976528049878-fub2shtlaa4tekkhnbqgvpm0720ckk51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBawjHy9r0l9LDnsp8kJ4bXpbPulvMxfWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976528049878-fub2shtlaa4tekkhnbqgvpm0720ckk51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
